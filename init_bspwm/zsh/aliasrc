@@ -1,0 +1,30 @@
+#
+
+# ALIASES
+
+export EDITOR=vim
+
+alias pacman-update='sudo pacman-mirrors --geoip'
+
+alias ls='lsd'
+alias ll='lsd -l'
+
+alias l='lsd -lFh'     #size,show type,human readable
+alias la='lsd -lAFh'   #long list,show almost all,show type,human readable
+alias lr='lsd -tRFh'   #sorted by date,recursive,show type,human readable
+alias lt='lsd --tree'  #long list,sorted by date,show type,human readable
+alias ll='lsd -l'      #long list
+
+alias grep='grep --color'
+
+alias fd='find . -type d -name'
+alias ff='find . -type f -name'
+
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+
+alias cam_on='sudo modprobe uvcvideo'
+alias cam_off='sudo modprobe -r uvcvideo'
+
+alias nocaps='setxkbmap -option ctrl:nocaps'

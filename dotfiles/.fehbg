@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '$HOME/init_bspwm/wallpaper/wallpaper_1.jpg' '$HOME/init_bspwm/wallpaper/wallpaper_2.jpg' 
