@@ -46,8 +46,6 @@ Install the gedit and for drakula theme follow [the instructions](https://dracul
 Install the thunar. To set the dark theme, install lxappearance and set the theme accordingly.
 Check also `./dotfiles/.config/Thunar/uca.xml` for changing the default terminal.
 
-## Ranger
-
 ## zsh
 0. Install the powerlevel10k theme.
 1. copy the `.dotfiles/.p10k.zsh` as `$HOME/.p10k.zsh`
@@ -67,11 +65,6 @@ Add the `$HOME/.vim/vimrc` to change the configs. see `./init_bspwm/.vim/vimrc`.
 ## Thunderbird
 - see [here](https://github.com/darshan315/bspwm_config/tree/main/thunderbird/ReadMe.md).
 
-## brave
-
-## Tor
-
-## qutebrowser
 
 ## Firefox
 - see [here](https://github.com/darshan315/bspwm_config/tree/main/firefox/ReadMe.md).
